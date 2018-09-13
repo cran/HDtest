@@ -26,10 +26,9 @@ Testing the equality of two high dimensional mean vectors using the testing proc
 \details{
 Implementing testing procedure proposed by Cai, Liu, and Xia (2014) to test the equality of two sample high dimensional mean vectors under the assumption of sparsity of signals.
 }
-\author{
-Tong He
-}
 \references{
 T. Cai, W. Liu, and Y. Xia (2014). Two-sample test of high dimensional means under dependence. J. R. Statist. Soc. B. 76, 349--372
 }
-
+\author{
+Tong He
+}

@@ -38,10 +38,9 @@ Implement the method developed in  arXiv:1406.1939 [math.ST] to test whether a h
 to test \eqn{H_0: \mu_1=\mu_2}. The procedure utilizes bootstrap concept and derive the critical values using
 independent Gaussian vectors whose covariance is estimated using sample covariance matrix.
 }
-\author{
-Tong He
-}
 \references{
 J. Chang, W. Zhou and W.-X. Zhou, Simulation-Based Hypothesis Testing of High Dimensional Means Under Covariance Heterogeneity (2014), arXiv:1406.1939.
 }
-
+\author{
+Tong He
+}

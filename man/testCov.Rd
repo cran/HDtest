@@ -51,4 +51,3 @@ testCov(GO26$X, GO26$Y, method = "ALL", J = 100)
 \author{
 Tong He
 }
-

@@ -12,4 +12,3 @@ data(GO26)
 A list of two sample matrices sliced from GO:0016032, it is about viral reproduction
 }
 \keyword{datasets}
-

@@ -22,10 +22,9 @@ Testing the equality of two high dimensional mean vectors using the testing proc
 \details{
 Implementing testing procedure proposed by Chen and Qin (2010) to test the equality of two sample high dimensional mean vectors under the assumption of sparsity of signals.
 }
-\author{
-Tong He
-}
 \references{
 S. Chen and Y. Qin (2010). A two-sample test for high-dimensional data with applications to gene-set testing. Ann. Statist. 38, 808-835
 }
-
+\author{
+Tong He
+}

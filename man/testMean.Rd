@@ -51,4 +51,3 @@ testMean(GO54$X, GO54$Y, m = 100, method = "ALL")
 \author{
 Tong He
 }
-

@@ -13,4 +13,3 @@ A list of two sample matrices sliced from GO:0034080,
 it is about CenH3-containing nucleosome assembly at centromere.
 }
 \keyword{datasets}
-
